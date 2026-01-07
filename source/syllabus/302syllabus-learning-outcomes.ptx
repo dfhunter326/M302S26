@@ -1,0 +1,59 @@
+ <section xml:id="los"><title>Learning Outcomes</title>
+  <!--This version of the learning outcomes is for Math 121 and is GTPathways compliant.-->
+  <paragraphs xml:id="clos">
+    <title>Course Learning Outcomes</title>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Demonstrate understanding and proper use of basic topological definitions of open set, closed set,
+metric space, limits, and continuous functions.
+          </p>
+        </li>
+        <li>
+          <p>
+            Demonstrate understanding of basic topological properties of the real line.
+          </p>
+        </li>
+        <li>
+          <p>
+            Demonstrate understanding of abstract metric and topological spaces, and how to work in them.
+          </p>
+        </li>
+        <li>
+          <p>
+            Demonstrate proficiency in using proper mathematical notation and terminology.
+          </p>
+        </li>
+        <li>
+          <p>
+            Develop communication skills necessary for reading and writing mathematical proofs, and be able to use formal mathematical logic to read and write proofs using standard methods such as direct, contradiction, and contrapositive.
+          </p>
+        </li>
+      </ul>
+    </p>
+  </paragraphs>
+
+  <paragraphs xml:id="plos">
+    <title>Program Learning Outcomes</title>
+    <p>
+      <ul>
+        <li>
+          <p>
+            Write a correct mathematical proof.
+          </p>
+        </li>
+        <li>
+          <p>
+            Effective written and oral presentations of mathematical material.
+          </p>
+        </li>
+        <li>
+          <p>
+            Apply mathematical thinking in abstract settings.
+          </p>
+        </li>
+      </ul>
+    </p>
+  </paragraphs>
+</section>

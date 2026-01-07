@@ -8,16 +8,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 1</cell> <cell>logic, quantifiers, proofs</cell>
         </row>
     </tabular>
     </p>
@@ -28,16 +19,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 1, Ch 2</cell> <cell>set theory, topologies</cell>
         </row>
     </tabular>
     </p>
@@ -48,16 +30,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 2</cell> <cell>topologies, bases, subspaces</cell>
         </row>
     </tabular>
     </p>
@@ -68,16 +41,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 2, Exam 1</cell> <cell></cell>
         </row>
     </tabular>
     </p>
@@ -88,16 +52,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 2</cell> <cell>interior, closure, boundary, Hausdorff</cell>
         </row>
     </tabular>
     </p>
@@ -108,16 +63,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 2</cell> <cell>metric spaces</cell>
         </row>
     </tabular>
     </p>
@@ -128,16 +74,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Finish Ch 2, Exam 2</cell> <cell>Section?, Topic</cell>
         </row>
     </tabular>
     </p>
@@ -148,16 +85,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 3</cell> <cell>Functions and continuity</cell>
         </row>
     </tabular>
     </p>
@@ -168,16 +96,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 3</cell> <cell>Continuity</cell>
         </row>
     </tabular>
     </p>
@@ -188,16 +107,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Finish Ch 3, Exam 3</cell> <cell></cell>
         </row>
     </tabular>
     </p>
@@ -208,16 +118,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 4</cell> <cell>Product spaces</cell>
         </row>
     </tabular>
     </p>
@@ -228,16 +129,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 5</cell> <cell>Connectedness</cell>
         </row>
     </tabular>
     </p>
@@ -248,16 +140,7 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Ch 6</cell> <cell>Compactness</cell>
         </row>
     </tabular>
     </p>
@@ -268,18 +151,16 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Wednesday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Thursday</cell> <cell>Section?, Topic</cell>
-        </row>
-        <row>
-            <cell>Friday</cell> <cell>Section?, Topic</cell>
+            <cell>Projects</cell> <cell>Review</cell>
         </row>
     </tabular>
+    </p>
+</paragraphs>
+
+<paragraphs>
+    <title>Note</title>
+    <p>
+        This is an ambitious schedule and accounts for the most material that I expect to get to. I plan to slow down if it feels appropriate to allow for more depth in Ch 2 and 3 even if we do not cover all of the later sections. Canvas will have up to date information about where we are at.
     </p>
 </paragraphs>
 
