@@ -9,16 +9,19 @@
         <cell>Assignment Category</cell> <cell>Weight</cell>
       </row>
       <row>
-        <cell>Webwork (Online Homework System)</cell> <cell>25%</cell>
+        <cell>Pre-class assignments</cell> <cell>15%</cell>
       </row>
       <row>
-        <cell>Weekly Activities</cell> <cell>10%</cell>
+        <cell>Weekly homework</cell> <cell>20%</cell>
       </row>
       <row>
-        <cell>Three Midterm Exams</cell> <cell>15% each</cell>
+        <cell>Four Midterm Exams</cell> <cell>10% each</cell>
       </row>
       <row>
-        <cell>Cumulative Final Exam</cell> <cell>20%</cell>
+        <cell>Project</cell> <cell>10%</cell>
+      </row>
+      <row>
+        <cell>Cumulative Final Exam</cell> <cell>15%</cell>
       </row>
     </tabular>
     <p>
@@ -67,51 +70,35 @@
     </tabular>
 
   
-  <paragraphs xml:id="webwork">
-    <title>Webwork</title>
+  
+  <paragraphs xml:id="weekly-activities">
+    <title>Daily Homework</title>
     <p>
-      Webwork is our online homework system. An account has been created for you and a link posted on Canvas. You should check Webwork every class day for new assignments. Their due dates are posted with the assignment. Typically, Webwork assignments will be due at 11:59pm two business days after that section's material has been completed in class. Thus, we have the following:
-    </p>
-    <tabular>
-      <row header="yes">
-        <cell>Day</cell><cell>Day Due</cell>
-      </row>
-      <row>
-        <cell>Monday</cell><cell>Wednesday</cell>
-      </row>
-      <row>
-        <cell>Wednesday</cell><cell>Friday</cell>
-      </row>
-      <row>
-      <cell>Thursday</cell><cell>Monday</cell>
-      </row>
-      <row>
-        <cell>Friday</cell><cell>Tuesday</cell>
-      </row>
-    </tabular>
-    <p>
-      After the due date there will be a reduced credit period of 48 hours for each Webwork assignment in which you can receive 75% credit on all work completed.
-    </p>
-    <p>
-      Because online homework tells you if your answer is right or wrong as soon as you submit it, and for most questions you will be allowed multiple submissions, doing online homework may take you longer than doing written homework. So, give yourself plenty of time by starting your homework ASAP after it is assigned. This will give you time to do the assignment and get help if you need it.
+      We will have daily pre-class assignments submitted via canvas prior to class each day. I will be grading these mainly on completion and effort. These assignments will be the foundation of our work in class each day. 
     </p>
   </paragraphs>
-  <paragraphs xml:id="weekly-activities">
-    <title>Weekly Activities</title>
+  <paragraphs xml:id="weekly-homework">
+    <title>Weekly Homework</title>
     <p>
-      Each week, typically on Thursdays, class time will be spent on an activity (such as a worksheet) intended to bring together material we have learned in the last week. Group work will be encouraged, but each student must turn in their own assignment.
+      Weekly written homework assignments will be assigned and graded for completeness, correctness, and presentation. I expect you to write these up formally, neatly, and completely (typeset with LaTex preferably) and submit them for more complete and rigorous feedback. 
     </p>
   </paragraphs>
   <paragraphs xml:id="midterm-exams">
     <title>Midterm Exams</title>
     <p>
-      There will be three midterm exams given in class on 9/19, 10/17, and 11/4. The class day before exams will be reserved for review. 
+      There will be four midterm exams given in class during weeks 4, 7, 10, and 13. 
+    </p>
+  </paragraphs>
+  <paragraphs xml:id="project">
+    <title>Project</title>
+    <p>
+       To round out the quarter, in groups of 2-3 we will investigate additional topics in topology (other than point set topology) and present them to the class. There will also be a written component for this project as well.
     </p>
   </paragraphs>
   <paragraphs xml:id="final">
     <title>Cumulative Final Exam</title>
     <p>
-      Your cumulative final exam will be Wednesday, December 10, from 7:30-9:30am. The room will be announced prior to the final exam.
+      Your cumulative final exam will be Monday, April 27, from 9:45-11:45am.
     </p>
   </paragraphs>
 </section>
